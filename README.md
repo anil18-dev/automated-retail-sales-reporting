@@ -97,5 +97,15 @@ I am available for:
 * Business analytics solutions
 * Custom Python automation projects
 
+## 📁 Sample Output
+
+The project generates client-ready CSV reports.  
+Example output:
+
+- `output/top_10_cities_sales.csv` – City-wise total sales ranking
+
+These files are ready to be shared directly with 
+stakeholders.
+
 📧 Contact: anildangi18@gmail.com or
 linkedin : https://www.linkedin.com/in/anil-dangi-1a84623a9/
