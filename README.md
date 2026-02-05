@@ -54,16 +54,13 @@ This project delivers a **fully automated Python-based reporting system** that c
 ---
 
 ## 📂 Project Structure
-
-```
-project_4_retail_sales_analytics/
-│── data/
+automated-retail-sales-reporting/
+├── data/
 │   └── retail_sales.csv
-│── output/
+├── output/
 │   └── top_10_cities_sales.csv
-│── sales_analysis.py
-│── README.md
-```
+├── sales_analysis.py
+└── README.md
 
 ---
 
